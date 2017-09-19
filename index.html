@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>McDonalds Calorie Optimizer</title>
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="css/landing-page.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="content container-fluid">
+      <div class="row">
+        <div class="col-lg-6 intro-header intro-message">
+            <h1>McDonalds Optimizer</h1>
+            <h3>The most calories. The best value.</h3>
+            <hr class="intro-divider">
+            <input class="form-control" id="input_field" type="number" min="0.01" step="0.01" max="2500" placeholder="$5.67" />
+            <button class="btn btn-primary" id="start_button">Submit</button>
+        </div>
+        <div class="col-lg-6 results">
+            <table class="table table-responsive" id="results_table">
+                <thead>
+                    <td>Name</td>
+                    <td>Calories</td>
+                    <td>Cost $</td>
+                </thead>
+            </table>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <p class="copyright text-muted small">
+            Info sourced from <a href="https://fastfoodnutrition.org/mcdonalds/chart">fastfoodnutrition.org</a>
+            and
+            <a href="https://www.fastfoodmenuprices.com/mcdonalds-prices/">fastfoodmenuprices.com</a>
+        </p>
+        <p class="copyright text-muted small">
+            Alex Nguyen 2017. All Rights Reserved.
+            <a href="alxngyn.com">alxngyn.com</a>
+        </p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/knapsack.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Landing Page (http://startbootstrap.com/template-overviews/landing-page)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+ */
+
+body, html {
+  width: 100%;
+  height: 100%;
+  background-color: #515d69;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.intro-header {
+  padding-top: 35px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+}
+
+.intro-message {
+  position: relative;
+  padding-top: 10rem;
+  padding-bottom: 1rem;
+}
+
+.intro-message>h1 {
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  font-size: 5em;
+}
+
+.intro-divider {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.intro-message>h3 {
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.intro-message #input_field{
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-message #start_button{
+    margin-top: 1rem;
+}
+
+@media(max-width:767px) {
+  .intro-message {
+    padding-bottom: 15%;
+  }
+  .intro-message>h1 {
+    font-size: 3em;
+  }
+  .intro-divider {
+    width: 100%;
+  }
+}
+.results{
+    color: #f8f8f8;
+}
+
+#results_table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35rem;
+}
+.total-row{
+    color: #495057
+}
+.content {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -50px;
+  /* Pad bottom by footer height */
+  padding: 0 0 50px;
+  background: url(../img/intro-bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+footer {
+  padding: 50px 0;
+  background-color: #f8f8f8;
+}
+
+p.copyright {
+  margin: 15px 0 0;
+}

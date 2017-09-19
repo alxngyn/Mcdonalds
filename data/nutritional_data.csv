@@ -1,0 +1,47 @@
+Name,breakfast_only,Cost(USD cents),Calories,Calories From Fat,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g),Vitamin A (% DV),Vitamin C (% DV),Calcium (% DV),Iron (% DV)
+Apple Dippers,0,100,15,0,0,0,0,0,0,4,0,3,0,0,160,2,0
+Artisan Grilled Chicken Sandwich,0,439,380,60,7,2,0,95,1110,44,3,11,37,4,20,20,15
+Baked Hot Apple Pie,0,99,230,90,10,5,0,0,160,32,4,13,2,2,15,2,6
+Big Mac,0,399,540,250,28,10,1,80,950,46,3,9,25,10,2,15,25
+Cheeseburger,0,100,300,100,12,5,0.5,40,680,33,2,7,15,10,2,10,15
+Chicken McNuggets 10 Piece,0,449,440,240,27,4.5,0,75,840,26,2,0,24,0,4,2,6
+Chicken McNuggets 20 Piece,0,500,890,480,53,9,0,145,1680,53,4,0,49,0,8,4,10
+Chicken McNuggets 40 piece,0,899,1770,960,107,18,0.5,295,3370,105,7,1,98,0,15,6,25
+Chocolate Chip Cookie,0,39,170,70,7,3.5,0,10,90,23,1,15,2,4,0,2,8
+Chocolate McCafe Shake Large,0,299,850,200,23,14,1,90,420,110,1,122,19,35,0,60,4
+Chocolate McCafe Shake Medium,0,259,630,160,18,11,1,70,310,81,1,90,14,25,0,45,2
+Chocolate McCafe Shake Small,0,219,530,140,15,10,0.5,60,260,68,1,75,12,20,0,40,2
+Double Cheeseburger,0,169,430,190,21,11,1,85,1040,35,2,7,25,20,4,15,20
+Double Quarter Pounder¨ with Cheese,0,479,770,400,45,21,2.5,175,1290,42,3,10,51,20,6,20,35
+Filet-O-Fish¨,0,379,380,170,18,4,0,40,640,38,2,5,15,2,0,15,10
+French Fries Large,0,189,510,220,24,3.5,0,0,350,66,6,0,7,0,30,2,6
+French Fries Medium,0,179,340,140,16,2,0,0,230,44,4,0,4,0,20,2,4
+French Fries Small,0,139,230,100,11,2,0,0,160,29,3,0,3,0,15,2,2
+Fruit 'n Yogurt Parfait,0,100,150,20,2,1,0,5,75,30,1,22,4,2,25,10,4
+Fruit & Maple Oatmeal w/o Brown Sugar,0,199,260,40,4,1.5,0,5,115,49,5,18,6,2,130,6,10
+Hamburger,0,95,250,70,8,3,0,30,480,31,2,6,13,2,2,4,15
+Hot (Caramel or Fudge) Sundae,0,219,380,100,6,6,0,30,160,51,1,44,9,10,0,25,0
+Maple Bacon Dijon 1/4 lb Burger,0,519,640,330,36,14,1.5,110,1260,40,3,10,37,6,15,15,25
+Maple Bacon Dijon Chicken Sandwich Crispy,0,519,740,310,35,9,0.5,95,1780,69,5,14,39,4,20,290,15
+Maple Bacon Dijon Chicken Sandwich Grilled,0,519,580,190,21,8,0,135,1890,50,3,14,48,4,30,30,15
+McChicken,0,129,350,130,15,3.5,0,40,600,40,2,5,15,2,2,4,15
+McDouble,0,139,380,160,18,8,1,70,840,34,2,7,23,10,2,10,20
+Pico Guacamole 1/4 lb Burger,0,499,580,300,33,12,1.5,95,920,41,4,7,29,8,15,15,25
+Pico Guacamole Chicken Sandwich Crispy,0,499,680,280,32,7,0,80,1430,69,6,12,31,8,15,30,15
+Pico Guacamole Chicken Sandwich Grilled,0,499,520,160,18,6,0,115,1540,50,4,12,40,8,25,30,3
+Premium Asian Salad w/ Grilled Chicken,0,479,270,80,9,1,0,80,740,18,5,10,31,180,70,10,15
+Premium Bacon Ranch Salad w/ Crispy Chicken,0,459,490,250,28,8,0,95,1120,28,4,4,33,180,60,15,10
+Premium Bacon Ranch Salad w/ Grilled Chicken,0,459,320,120,14,6,0,45,1230,9,3,4,42,180,60,15,10
+Premium Bacon Ranch Salad w/o Chicken,0,459,190,110,12,5,0,40,660,9,3,3,14,180,50,15,10
+Premium Buttermilk Crispy Chicken Deluxe Sandwich,0,439,570,200,23,5,0,60,1050,64,4,11,28,4,10,20,15
+Premium Southwest Salad w/ Crispy Chicken,0,459,520,230,25,6,0,75,960,46,8,9,28,180,40,20,15
+Premium Southwest Salad w/o Chicken,0,479,220,90,10,3.5,0,15,500,26,6,9,8,180,40,20,10
+Quarter Pounder¨ with Cheese,0,379,530,240,27,13,1.5,100,1090,41,3,10,31,20,6,15,25
+Sausage Burrito,0,129,290,140,15,6,0,165,800,26,1,2,13,10,6,10,15
+Side Salad,0,159,20,0,0,0,0,0,10,4,1,2,1,45,25,2,4
+Strawberry & Creme Pie,0,99,300,140,15,9,0,15,190,36,1,15,3,6,4,4,6
+Strawberry Sundae,0,219,320,90,10,4.5,0,25,95,40,1,45,8,20,2,20,0
+Sweet BBQ Bacon 1/4 lb Burger,0,519,690,340,37,14,1.5,110,1310,51,3,14,38,6,15,15,30
+Sweet BBQ Bacon Chicken Sandwich Crispy,0,519,800,320,36,9,0.5,95,1820,80,5,18,39,4,20,30,15
+Sweet BBQ Bacon Chicken Sandwich Grilled,0,519,630,200,22,7,0,135,1930,61,4,18,48,4,30,25,15
+Vanilla Reduced Fat Ice Cream Cone,0,100,200,45,5,3.5,0,20,80,23,0,24,5,8,0,15,2
