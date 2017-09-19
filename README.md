@@ -17,7 +17,9 @@ I tried to keep it simple
 
 
 # references:
+
 For nutritional data
 - https://fastfoodnutrition.org/mcdonalds/chart
+
 For pricing data
 - https://www.fastfoodmenuprices.com/mcdonalds-prices/
