@@ -14,9 +14,9 @@ $(document).ready(function(){
         // add header
         $('#results_table').append(
             '<thead class="thead-default">'
-            +'<th>'+'Name'+'</td>'
-            +'<th>'+'Calories'+'</td>'
-            +'<th>'+'Cost $'+'</td>'
+            +'<th>'+'Name'+'</th>'
+            +'<th>'+'Calories'+'</th>'
+            +'<th>'+'Cost $'+'</th>'
             +'</thead>'
         );
         // get input
